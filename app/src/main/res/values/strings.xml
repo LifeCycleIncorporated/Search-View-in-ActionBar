@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Search View in ActionBar</string>
+
+    <string-array name="countryName">
+        <item>America</item>
+        <item>Austria</item>
+        <item>azerbania </item>
+        <item>Canada</item>
+        <item>Georgia </item>
+        <item>Nepal </item>
+        <item>Netherland </item>
+        <item>Red Crse</item>
+        <item>Suriname </item>
+        <item>Turkey </item>
+
+        <item>America</item>
+        <item>Austria</item>
+        <item>azerbania </item>
+        <item>Canada</item>
+        <item>Georgia </item>
+        <item>Nepal </item>
+        <item>Netherland </item>
+        <item>Red Crse</item>
+        <item>Suriname </item>
+        <item>Turkey </item>
+    </string-array>
+</resources>
